@@ -27,10 +27,8 @@ class DataAnalyst:
         ]
         self.current_focus = "Building scalable data pipelines and AI solutions"
         self.fun_fact = "I love making dashboards that simplify complex data!"
-
     def introduce(self):
         return f"Hi, I'm {self.name}. I am passionate about using data to solve real-world problems."
-
 me = DataAnalyst()
 print(me.introduce())
 ```
