@@ -38,25 +38,25 @@ print(me.introduce())
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/mohit-taparia/Telecom-Customer-Churn-Analysis" title="Telecom Customer Churn Analysis">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-taparia&repo=Telecom-Customer-Churn-Analysis&theme=react&border_color=61dafb&border_radius=10">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-taparia&repo=Telecom-Customer-Churn-Analysis&theme=react&border_color=61dafb&border_radius=10&description=Telecom%20customer%20churn%20Rate%20Analysis">
   </a>
   <a align="right" href="https://github.com/mohit-taparia/F1-Result-Analysis" title="Formula 1 Race Analysis">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-taparia&repo=F1-Result-Analysis&theme=react&border_color=61dafb&border_radius=10">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-taparia&repo=F1-Result-Analysis&theme=react&border_color=61dafb&border_radius=10&description=Predicting%20Formula%201%20Race%20Winners">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/mohit-taparia/Live-Cricket-Score-Analysis" title="Live Cricket Score Analysis">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-taparia&repo=Live-Cricket-Score-Analysis&theme=react&border_color=61dafb&border_radius=10">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-taparia&repo=Live-Cricket-Score-Analysis&theme=react&border_color=61dafb&border_radius=10&description=Analyzing%20Cricket%20Match%20score%20in%20Real%20time">
   </a>
   <a align="right" href="https://github.com/mohit-taparia/Big-Tech-Stock-Price-Analysis" title="Big Tech Stock Price Analysis">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-taparia&repo=Big-Tech-Stock-Price-Analysis&theme=react&border_color=61dafb&border_radius=10">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-taparia&repo=Big-Tech-Stock-Price-Analysis&theme=react&border_color=61dafb&border_radius=10&description=Predicting%20Big%20tech%20stock%20prices%20change">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/mohit-taparia/Arduino-Based-Solar-Tracking" title="Arduino-Based Solar Tracking">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-taparia&repo=Arduino-Based-Solar-Tracking&theme=react&border_color=61dafb&border_radius=10">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-taparia&repo=Arduino-Based-Solar-Tracking&theme=react&border_color=61dafb&border_radius=10&description=Automatic%20Solar%20Panel%20based%20on%20Sun's%20Position">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
@@ -87,10 +87,6 @@ print(me.introduce())
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohit-taparia&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-taparia&layout=compact&langs_count=6&theme=react&hide_border=true" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit-taparia&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
 </div>
 
 ---
