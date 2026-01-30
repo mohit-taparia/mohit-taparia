@@ -22,8 +22,8 @@ class DataAnalyst:
         self.education = "M.S. in Data Science, University of Arizona (2025)"
         self.skills = ["Data Engineering", "Python", "SQL", "Machine Learning", "AWS"]
         self.experience = [
+			"Data Analyst"
             "Analyst II Software Engineer, DXC Technology",
-            "Collaborating on predictive modeling projects",
         ]
         self.current_focus = "Building scalable data pipelines and AI solutions"
         self.fun_fact = "I love making dashboards that simplify complex data!"
@@ -32,38 +32,6 @@ class DataAnalyst:
 me = DataAnalyst()
 print(me.introduce())
 ```
-## 🔥 Featured Projects
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/mohit-taparia/Telecom-Customer-Churn-Analysis" title="Telecom Customer Churn Analysis">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-taparia&repo=Telecom-Customer-Churn-Analysis&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/mohit-taparia/F1-Result-Analysis" title="Formula 1 Race Analysis">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-taparia&repo=F1-Result-Analysis&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/mohit-taparia/Live-Cricket-Score-Analysis" title="Live Cricket Score Analysis">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-taparia&repo=Live-Cricket-Score-Analysis&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/mohit-taparia/Big-Tech-Stock-Price-Analysis" title="Big Tech Stock Price Analysis">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-taparia&repo=Big-Tech-Stock-Price-Analysis&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/mohit-taparia/Arduino-Based-Solar-Tracking" title="Arduino-Based Solar Tracking">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-taparia&repo=Arduino-Based-Solar-Tracking&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/mohit-taparia?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
 
 ## 🛠️ Skills & Tools
 
@@ -80,26 +48,18 @@ print(me.introduce())
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
 </div>
 
-## 📊 GitHub Stats
+## Background:
 
-<div align="center">
-  <a href="https://github.com/mohit-taparia">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohit-taparia&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-taparia&layout=compact&langs_count=6&theme=react&hide_border=true" />
-  </a>
-</div>
+**MS Data Science** @ University of Arizona (3.78 GPA)  
+**B.Tech ECE** @ Anna University (3.72 GPA)  
+11 Certifications • 1,500+ contributions
 
----
+## Connect!
 
-<div align="center">
-  <!-- Visitor count -->
-  You are visitor number:  
-  <img src="https://profile-counter.glitch.me/mohit-taparia/count.svg" alt="Visitor Count" />
-</div>
+- 🌐 Portfolio: [mohit-taparia.com](https://  /)
+- 💼 LinkedIn: [linkedin.com/in/mohit-taparia](https://www.linkedin.com/in/mohit-rakesh-taparia/)
+- ✉️ Email: thatsmohit2000@gmail.com
 
 ---
 
-## 📫 Reach Me
-	•	🌐 Portfolio Website: mohittaparia.dev
-	•	💼 LinkedIn: linkedin.com/in/mohit-taparia
-	•	🐦 Twitter: @mohit_taparia
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
